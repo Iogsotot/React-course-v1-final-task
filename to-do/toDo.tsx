@@ -1,8 +1,8 @@
 import React from 'react'
 
-const ToDo = () => {
-	const data = [1, 2, 3, 4, 5, 6];
+const data = [1, 2, 3, 4, 5, 6];
 
+const ToDo = (data: number[]) => {
 
 	return <>
 		{data.map((item) => <li> {item}</li>)}
