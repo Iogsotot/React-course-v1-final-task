@@ -1,8 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-const data = [1, 2, 3, 4, 5, 6];
-
-const ToDo = (data: number[]) => {
+const ToDoList = (data: number[]) => {
 
 	return <>
 		{data.map((item) => <li> {item}</li>)}
