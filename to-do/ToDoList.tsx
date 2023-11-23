@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ToDoList = (data: number[]) => {
+export const ToDoList = (data: number[]) => {
 
 	return <>
 		{data.map((item) => <li> {item}</li>)}

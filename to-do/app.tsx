@@ -1,5 +1,7 @@
 import React from 'react';
 import { ToDoList } from './ToDoList';
+import { Header } from './Header';
+import { Footer} from '.Footer'
 
 const data = [1, 2, 3, 4, 5, 6];
 
