@@ -47,41 +47,43 @@ The Pokedex project is developed using the React library, along with MobX or Red
 
 ## Functional Requirements
 
- **Main Page:**
+ - [ ] **Main Page:**
    - Display a gallery of cards with information about Pokemon.
    - Information about each Pokemon should include name, avatar, type, and main characteristics.
 
- **Page with caught pokemon**
+ - [ ] **Footer and Header**
+
+ - [ ] **Page with caught pokemon**
    - similar to the Main Page, but only captured Pokemon are presented
 
- **Pagination:**
+ - [ ] **Pagination:**
    - Implement pagination with the ability to choose the number of displayed items per page.
 
- **Filtering:**
+ - [ ] **Filtering:**
    - Ability to filter Pokemon by name using a search box.
    - Ability to filter by type using tags (ability to select multiple types).
 
- **Responsiveness:**
+ - [ ] **Responsiveness:**
    - Ensure the application displays properly on different devices (mobile and desktop).
 
- **Library Integration:**
+ - [ ] **Library Integration:**
    - Use MobX or Redux library for state management.
 
-  **BE and BD:**
+  - [ ] **BE and BD:**
    - For pseudo-backend and database use [json-server](https://www.npmjs.com/package/json-server)
 
 ## Code Requirements
 
-1. **React Hooks:**
+- [ ] **React Hooks:**
     - Use React Hooks for state management and component lifecycle.
 
-2. **Code Readability:**
+- [ ] **Code Readability:**
     - Follow coding standards and best practices for writing readable code.
 
-3. **Maintainability:**
+- [ ] **Maintainability:**
     - Separate business logic and presentational components for ease of future maintenance.
 
-4. **Linting:**
+- [ ] **Linting:**
     - Code should be linted. You can use ready-made linter settings from the provided boilerplate or customize your own (stricter)
 
 ## Additional Tasks (Bonus)
@@ -99,16 +101,16 @@ The Pokedex project is developed using the React library, along with MobX or Red
 
 ## Evaluation Criteria
 
-- [ ] **Minimal Viable Product:**
+ **Minimal Viable Product:**
     - Deliver a minimal viable product within a short timeframe (by New Year 2024).
 
-- [ ] **Code Convention:**
+ **Code Convention:**
     - Follow good coding conventions and style guides.
 
-- [ ] **Implementation Prioritization:**
+ **Implementation Prioritization:**
     - Know what is important to implement now and what can be deferred to future iterations.
 
-- [ ] **Library Integration Proficiency:**
+ **Library Integration Proficiency:**
     - Demonstrate the ability to properly integrate libraries into the application.
 
 
