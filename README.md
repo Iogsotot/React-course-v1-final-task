@@ -114,7 +114,6 @@ The Pokedex project is developed using the React library, along with MobX or Red
     - Demonstrate the ability to properly integrate libraries into the application.
 
 
-
 ## Notes
 You can visit [pokemon.com](https://www.pokemon.com/us/pokedex) for inspiration
 Please note that these requirements may be supplemented or modified during development in consultation with the client.
