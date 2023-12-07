@@ -67,8 +67,8 @@ The Pokedex project is developed using the React library, along with MobX or Red
  **Library Integration:**
    - Use MobX or Redux library for state management.
 
-  **BE and BD**
-  For pseudo-backend and database use [json-server](https://www.npmjs.com/package/json-server)
+  **BE and BD:**
+   - For pseudo-backend and database use [json-server](https://www.npmjs.com/package/json-server)
 
 ## Code Requirements
 
