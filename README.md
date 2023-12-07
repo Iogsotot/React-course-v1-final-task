@@ -24,6 +24,7 @@ The Pokedex project is developed using the React library, along with MobX or Red
    - Present on all pages
 
 2. **Content:**
+   
    Note: One of these pages at one time, and not all three at once:
    - OR Main Page:
      - Gallery of cards with information about Pokemon (name, avatar, type, main characteristics)
