@@ -63,7 +63,7 @@ The Pokedex project is developed using the React library, along with MobX or Red
    - Ability to filter Pokemon by name using a search box.
    - Ability to filter by type using tags (ability to select multiple types).
 
- - [ ] **Responsiveness:**
+ - [ ] **Responsive design:**
    - Ensure the application displays properly on different devices (mobile and desktop).
 
  - [ ] **Library Integration:**
