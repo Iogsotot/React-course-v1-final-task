@@ -1,4 +1,4 @@
-# React-course-v1-final-task
+# React course v1: final task
 Create a simple application with the list of pokemons (pokedex) using the open [pokemon API](http://pokeapi.co)
 
 # Technical Specification for the Pokedex Project in React
